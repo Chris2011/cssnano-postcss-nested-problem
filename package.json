@@ -1,0 +1,13 @@
+{
+  "name": "cssnano-postcss-nested-problem",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "postcss-nested": "^5.0.3",
+    "vite": "^2.0.1"
+  }
+}
