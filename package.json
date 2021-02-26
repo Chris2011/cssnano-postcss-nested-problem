@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "postcss-nested": "^5.0.3",
     "vite": "^2.0.1"
   }
